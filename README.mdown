@@ -1,0 +1,24 @@
+### Stata modules to execute evolutionary factor analysis models on media framing data
+
+(Or whatever framing data you may desire)
+
+Note that these libraries are very much a work in progress.
+
+#### efa
+This module takes framing data and does the rolling factor analyses of each time window, kicking out a dataset of weighted frequencies (by factor scores)
+
+#### efaho
+Experimental higher-order factor analyses -- probably will be deleted, but here for posterity's sake.
+
+#### To do
+
+- Add documentation
+- Fix my juvenile programming from three years ago
+
+#### Contact
+
+Mike Gruszczynski
+- Email: mikewgruz@gmail.com
+- Web: http://mikegruz.wordpress.com
+
+Copyright (c) 2013, under the Simplified BSD License. For more information on FreeBSD see: http://www.opensource.org/licenses/bsd-license.php All rights reserved.
