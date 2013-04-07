@@ -4,6 +4,10 @@
 
 Note that these libraries are very much a work in progress.
 
+Method adapted from Baumgartner, De Boef, and Boydstun (2008) book "The Decline of the Death Penalty and the Discovery of Innocence."
+
+See their web site of data at http://www.unc.edu/~fbaum/Innocence/Innocence.htm
+
 #### efa
 This module takes framing data and does the rolling factor analyses of each time window, kicking out a dataset of weighted frequencies (by factor scores)
 
